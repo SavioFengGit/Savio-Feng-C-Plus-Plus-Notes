@@ -16,7 +16,7 @@ Some of the main features of C++ are:
 
 
 <br>
-<img src="cplusplus.png" width=70% height="auto"><br><br>
+<img src="cplusplus.png" width=50% height="auto"><br><br>
 
 ## Advice:
  - Set the environment variable by entering the path to the Mingw64/bin folder (compiler)
