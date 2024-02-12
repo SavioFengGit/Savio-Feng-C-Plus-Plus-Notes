@@ -1,4 +1,4 @@
-# Savio-Feng-C-Notes
+# Savio-Feng-C-Plus-Plus-Notes
 **You can find in this repository, all my notes about C++.**
 ## Introduction of C++
 C++ is a general-purpose programming language that supports both low-level and high-level programming. It was created by Bjarne Stroustrup in 1983 as an extension of the C language, adding features such as classes, templates, exception handling, and more. C++ is widely used for developing operating systems, device drivers, system software, desktop applications, video games, and other complex software.
