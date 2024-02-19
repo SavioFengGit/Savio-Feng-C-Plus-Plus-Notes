@@ -21,6 +21,7 @@ Some of the main features of C++ are:
 ## Advice:
  - Set the environment variable by entering the path to the Mingw64/bin folder (compiler)
  - Terminal command to compile and execute (windows): **g++ name.cpp -o new_name** (compile the file)     and      **.\name.exe** (execute)
+ - In Visual Studio Code, download the extensions C/C++ and Code Runner
 
 #Author
 <b>Xiao Li Savio Feng</b>
